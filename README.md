@@ -1,3 +1,4 @@
+![logo](https://github.com/aishwarya8potdar/aishwarya8potdar/blob/main/White%20Minimalist.png)
 <h1 align="center">Hi 👋, I'm Aishwarya Potdar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
